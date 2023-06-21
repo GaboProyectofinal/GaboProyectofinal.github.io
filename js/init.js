@@ -9,13 +9,13 @@
 // @ts-ignore
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCq50z5hoCVntMF7G9ughXKyItvJhVYVyo",
-  authDomain: "proyectofbd5cv51.firebaseapp.com",
-  projectId: "proyectofbd5cv51",
-  storageBucket: "proyectofbd5cv51.appspot.com",
-  messagingSenderId: "69044209508",
-  appId: "1:69044209508:web:ec63c5e4d2f301cfff5c71",
-  measurementId: "G-B3WFX1ZQV9"
+  apiKey: "AIzaSyAFfDuY-ocNsbNZx3UuVNECExpQhek6-y4",
+  authDomain: "proyectofinalbd5cv51.firebaseapp.com",
+  projectId: "proyectofinalbd5cv51",
+  storageBucket: "proyectofinalbd5cv51.appspot.com",
+  messagingSenderId: "279611973852",
+  appId: "1:279611973852:web:864da0d7c19b347dca5419",
+  measurementId: "G-4B4LLWNP7H"
 
 };
 
